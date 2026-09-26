@@ -33,7 +33,6 @@ Na Souzas Dev, desenvolvo aplicações, sites institucionais e projetos conceitu
   <img src="./assets/projects-banner.png" alt="Projetos em destaque" width="100%">
 </p>
 
-## Projetos em destaque
 
 ### Cartevy CRM
 
@@ -137,7 +136,7 @@ Decisões técnicas importantes são documentadas durante a evolução dos proje
   <img src="./assets/closing-banner.png" alt="Souzas Dev - Desenvolvimento web" width="100%">
 </p>
 
-## Souzas Dev
+## Sobre a Souzas Dev
 
 A **Souzas Dev** é meu espaço de desenvolvimento web, onde concentro aplicações próprias, projetos conceituais, experimentação técnica e evolução profissional.
 
@@ -154,5 +153,7 @@ Projetos apresentados como demonstrações são identificados dessa forma. Funci
 Construindo, documentando e melhorando um projeto de cada vez.
 
 </div>
+
+
 
 
