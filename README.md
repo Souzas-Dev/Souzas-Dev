@@ -154,6 +154,3 @@ Construindo, documentando e melhorando um projeto de cada vez.
 
 </div>
 
-
-
-
