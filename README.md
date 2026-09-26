@@ -5,7 +5,7 @@
 <div align="center">
 
 
-Responsável pela **Souzas Dev**, com foco em projetos web organizados, documentados e preparados para evolução contínua.
+Desenvolvimento web com foco em aplicações bem estruturadas, documentação e evolução contínua.
 
 [Site](https://souzasdev.com) · [GitHub](https://github.com/Souzas-Dev)
 
@@ -154,4 +154,5 @@ Projetos apresentados como demonstrações são identificados dessa forma. Funci
 Construindo, documentando e melhorando um projeto de cada vez.
 
 </div>
+
 
