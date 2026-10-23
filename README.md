@@ -1,66 +1,58 @@
 ﻿<p align="center">
-  <img src="./assets/profile-banner.png" alt="Eduardo Souza - Souzas Dev" width="100%">
+  <img src="./assets/profile-banner.png" alt="Souzas Dev - Desenvolvimento Web" width="100%">
 </p>
 
 <div align="center">
 
+Desenvolvimento de aplicações web, sistemas personalizados e experiências digitais.
 
-Desenvolvimento de aplicações web, sistemas personalizados e experiências digitais com foco em arquitetura, segurança e manutenção.
+**Arquitetura · Segurança · Qualidade · Evolução contínua**
 
-[Site](https://souzasdev.com) · [GitHub](https://github.com/Souzas-Dev)
+[Site oficial](https://souzasdev.com) · [Projetos](#projetos-em-destaque) · [Tecnologias](#tecnologias)
 
 </div>
 
 ---
 
-## Sobre
+## Sobre a Souzas Dev
 
-Desenvolvo aplicações web com **TypeScript, Next.js, React, Node.js e PostgreSQL**, priorizando soluções bem estruturadas, seguras e sustentáveis.
+A **Souzas Dev** é um espaço de desenvolvimento de software dedicado à criação de aplicações web, soluções digitais e produtos próprios.
 
-Na Souzas Dev, desenvolvo aplicações, sites institucionais e projetos conceituais com atenção a:
+Trabalho principalmente com **TypeScript, Next.js, React, Node.js e PostgreSQL**, buscando equilibrar experiência de uso, arquitetura, segurança e facilidade de manutenção.
 
-- arquitetura e organização do código;
-- segurança;
-- documentação técnica;
-- testes e validações;
-- integração contínua;
-- manutenção e evolução do projeto;
-- transparência sobre o que está implementado e o que ainda está planejado.
+O desenvolvimento é orientado por documentação, testes, versionamento e evolução incremental.
 
 ---
+
+## Projetos em destaque
 
 <p align="center">
   <img src="./assets/projects-banner.png" alt="Projetos em destaque" width="100%">
 </p>
 
-
 ### Cartevy CRM
 
-Aplicação web em desenvolvimento para acompanhamento da rotina comercial, incluindo clientes, pedidos, vendas, follow-ups e encomendas.
+**Status:** Em desenvolvimento
 
-O projeto possui arquitetura documentada, persistência PostgreSQL, autenticação própria server-side, migrations versionadas, testes automatizados e integração contínua.
+Aplicação de gestão comercial voltada ao acompanhamento de clientes, pedidos, vendas, follow-ups e encomendas.
 
-**Stack**
+O projeto conta com persistência PostgreSQL, autenticação server-side, migrations versionadas, testes automatizados e integração contínua.
 
-`Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Prisma` · `Vitest` · `GitHub Actions`
+**Tecnologias:** `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Prisma` · `Supabase` · `Vitest`
 
-[Ver repositório](https://github.com/Souzas-Dev/cartevy-crm)
+[Ver código e documentação](https://github.com/Souzas-Dev/cartevy-crm)
 
 ---
 
 ### Estação Café & Prosa
 
-Projeto conceitual criado para o portfólio da Souzas Dev.
+**Status:** Demonstração conceitual
 
-A proposta explora uma experiência visual moderna para uma cafeteria, com navegação responsiva, catálogo e interações desenvolvidas em uma aplicação Next.js.
+Experiência digital desenvolvida para demonstrar interfaces modernas, responsividade, navegação e interações visuais para uma cafeteria fictícia.
 
-**Stack**
+**Tecnologias:** `Next.js` · `React` · `TypeScript` · `CSS`
 
-`Next.js` · `React` · `TypeScript` · `CSS`
-
-[Ver repositório](https://github.com/Souzas-Dev/estacao-cafe-prosa)
-
-[Ver demonstração](https://souzas-dev.github.io/estacao-cafe-prosa/)
+[Ver demonstração](https://souzas-dev.github.io/estacao-cafe-prosa/) · [Ver código](https://github.com/Souzas-Dev/estacao-cafe-prosa)
 
 ---
 
@@ -80,7 +72,7 @@ A proposta explora uma experiência visual moderna para uma cafeteria, com naveg
 ![Supabase](https://img.shields.io/badge/Supabase-Platform-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### Qualidade e workflow
+### Qualidade e ferramentas
 
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -90,55 +82,26 @@ A proposta explora uma experiência visual moderna para uma cafeteria, com naveg
 
 ## Processo de desenvolvimento
 
-Meu fluxo de trabalho busca manter cada mudança rastreável e validada:
+Cada projeto evolui conforme suas necessidades, priorizando mudanças rastreáveis e verificáveis.
 
-~~~text
-planejamento
-    ↓
-branch de trabalho
-    ↓
-implementação
-    ↓
-testes / lint / build
-    ↓
-Pull Request
-    ↓
-CI
-    ↓
-squash merge
-    ↓
-main
-~~~
+**Planejamento → Implementação → Testes → Revisão → Integração → Evolução**
 
-Decisões técnicas importantes são documentadas durante a evolução dos projetos, incluindo arquitetura, persistência, segurança e limites de escopo.
+As decisões técnicas relevantes são documentadas, incluindo arquitetura, persistência, segurança e limitações conhecidas.
 
----
-
-## Princípios
-
-`organização` · `transparência` · `responsabilidade` · `evolução contínua` · `segurança` · `simplicidade operacional`
+Os projetos conceituais são identificados explicitamente como demonstrações.
 
 ---
 
 <p align="center">
-  <img src="./assets/closing-banner.png" alt="Souzas Dev - Desenvolvimento web" width="100%">
+  <img src="./assets/closing-banner.png" alt="Souzas Dev - Desenvolvimento Web" width="100%">
 </p>
-
-## Sobre a Souzas Dev
-
-A **Souzas Dev** é meu espaço de desenvolvimento web, onde concentro aplicações próprias, projetos conceituais, experimentação técnica e evolução profissional.
-
-Projetos apresentados como demonstrações são identificados dessa forma. Funcionalidades são descritas de acordo com seu estado real de implementação.
-
-**Site:** [souzasdev.com](https://souzasdev.com)
-
-**GitHub:** [github.com/Souzas-Dev](https://github.com/Souzas-Dev)
-
----
 
 <div align="center">
 
-Construindo, documentando e melhorando um projeto de cada vez.
+### Vamos construir soluções digitais com propósito.
+
+[Conheça a Souzas Dev](https://souzasdev.com) · [Explore os repositórios](https://github.com/Souzas-Dev?tab=repositories)
+
+**Construindo, documentando e evoluindo um projeto de cada vez.**
 
 </div>
-
