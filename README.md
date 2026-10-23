@@ -5,7 +5,7 @@
 <div align="center">
 
 
-Desenvolvimento web com foco em aplicações bem estruturadas, documentação e evolução contínua.
+Desenvolvimento de aplicações web, sistemas personalizados e experiências digitais com foco em arquitetura, segurança e manutenção.
 
 [Site](https://souzasdev.com) · [GitHub](https://github.com/Souzas-Dev)
 
@@ -15,7 +15,7 @@ Desenvolvimento web com foco em aplicações bem estruturadas, documentação e 
 
 ## Sobre
 
-Desenvolvedor web em evolução contínua, trabalhando principalmente com **TypeScript, Next.js, React, Node.js e PostgreSQL**.
+Desenvolvo aplicações web com **TypeScript, Next.js, React, Node.js e PostgreSQL**, priorizando soluções bem estruturadas, seguras e sustentáveis.
 
 Na Souzas Dev, desenvolvo aplicações, sites institucionais e projetos conceituais com atenção a:
 
@@ -60,19 +60,7 @@ A proposta explora uma experiência visual moderna para uma cafeteria, com naveg
 
 [Ver repositório](https://github.com/Souzas-Dev/estacao-cafe-prosa)
 
----
-
-### Clínica SER — Demonstração Conceitual
-
-Demonstração de site institucional desenvolvida para portfólio e apresentação comercial.
-
-O projeto é identificado explicitamente como **demonstração conceitual** e não representa um trabalho contratado ou site oficial.
-
-**Stack**
-
-`HTML` · `CSS` · `JavaScript`
-
-[Ver repositório](https://github.com/Souzas-Dev/clinica-ser-demo)
+[Ver demonstração](https://souzas-dev.github.io/estacao-cafe-prosa/)
 
 ---
 
