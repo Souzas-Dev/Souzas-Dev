@@ -1,57 +1,79 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="./assets/souzas-dev-banner.svg" alt="Souzas Dev — ES | Build · Learn · Evolve" width="100%">
+<img src="./assets/souzas-dev-banner.svg" alt="Souzas Dev — monograma ES | Build · Learn · Evolve" width="100%">
 
-**Eduardo Souza | Desenvolvedor de software**
+**Eduardo Souza · Desenvolvedor de software**
 
-Minha marca pessoal. Meu código. Minha evolução.
+Minha marca pessoal. Meus projetos. Minha evolução.
 
 </div>
 
 ---
 
-## Olá, eu sou o Eduardo!
+## 👋 Olá, eu sou o Eduardo!
 
-Sou desenvolvedor de software e uso este espaço para compartilhar projetos, estudos e experiências.
+Sou desenvolvedor de software e uso a **Souzas Dev** como minha marca pessoal: um espaço para compartilhar projetos, experiências e o que aprendo pelo caminho.
 
-A **Souzas Dev** é minha identidade pessoal no desenvolvimento de software, não uma empresa.
+Gosto de aprender construindo, entender o **porquê** de cada decisão técnica e documentar o processo — não apenas mostrar o resultado final.
 
-Acredito que a melhor forma de aprender tecnologia é construir, experimentar, documentar e melhorar continuamente.
+## 🎯 Meu foco atual
 
-## Meu foco atual
+Estou estudando **AWS e computação em nuvem** e quero transformar esse conhecimento em projetos práticos, com atenção à arquitetura, segurança, automação e custos.
 
-Estou direcionando meus estudos para **AWS e computação em nuvem**.
+`AWS` · `Cloud Computing` · `Segurança` · `Redes` · `Serverless` · `Automação`
 
-Quero transformar o aprendizado em projetos práticos que demonstrem minha evolução em áreas como:
+Estou explorando fundamentos de infraestrutura e os serviços que fazem parte dessas soluções, evoluindo dos conceitos para implementações reproduzíveis.
 
-- Computação e infraestrutura em nuvem
-- Redes, identidade e segurança
-- Armazenamento e bancos de dados
-- Arquiteturas serverless
-- Automação, monitoramento e boas práticas
+## 🚀 Projetos
 
-## Projetos
+> **Portfólio em construção.** Recomecei este GitHub do zero para publicar projetos que demonstrem meu aprendizado na prática. Os itens abaixo são **ideias de estudo**, ainda não entregas concluídas.
 
-Este portfólio está sendo construído do zero.
+| Projeto planejado | O que pretendo demonstrar |
+| :--- | :--- |
+| **Hospedagem estática na AWS** | S3, CloudFront, permissões e distribuição de conteúdo |
+| **API serverless** | API Gateway, Lambda, integração de dados e controle de acesso |
+| **Infraestrutura como código** | Provisionamento reproduzível, automação e monitoramento |
 
-Conforme os projetos forem desenvolvidos, vou publicar o código, as decisões de arquitetura e os aprendizados de cada implementação.
+À medida que cada projeto estiver pronto, vou incluir aqui o repositório e uma breve explicação das decisões que tomei.
 
-Meu objetivo é manter projetos reais, bem documentados e reproduzíveis.
+## 🛠️ Tecnologias
 
-## Build. Learn. Evolve.
+Minha base de desenvolvimento inclui:
 
-**Build** — Construir para transformar conhecimento em prática.
+**Linguagens e web:** `TypeScript` · `JavaScript` · `HTML` · `CSS`
 
-**Learn** — Aprender por meio de estudo, experimentação e desafios.
+**Frontend e backend:** `React` · `Next.js` · `Node.js`
 
-**Evolve** — Evoluir continuamente como desenvolvedor.
+**Dados e ferramentas:** `PostgreSQL` · `Git` · `GitHub`
+
+**Em estudo:** `Amazon Web Services (AWS)` · arquitetura e infraestrutura em nuvem
+
+Prefiro que as tecnologias apareçam principalmente nos projetos em que forem utilizadas, com contexto e código para demonstrar como foram aplicadas.
+
+## 📚 Aprendizados
+
+Em cada projeto, pretendo registrar:
+
+- **Objetivo:** qual problema ou conceito estou explorando;
+- **Arquitetura:** os serviços escolhidos e o motivo das decisões;
+- **Implementação:** passos para reproduzir a solução;
+- **Segurança e custos:** cuidados tomados durante os testes;
+- **Lições aprendidas:** dificuldades, melhorias e próximos passos.
+
+A ideia é que este perfil mostre minha evolução de verdade — incluindo experimentos, ajustes e descobertas.
 
 ---
 
 <div align="center">
 
-**Souzas Dev © Eduardo Souza**
+### BUILD · LEARN · EVOLVE
 
-*Build · Learn · Evolve*
+**Build** — Construir para colocar o conhecimento em prática.
+
+**Learn** — Aprender por meio de estudo e experimentação.
+
+**Evolve** — Evoluir a cada novo desafio.
+
+<sub>Souzas Dev · Marca pessoal de Eduardo Souza</sub>
 
 </div>
