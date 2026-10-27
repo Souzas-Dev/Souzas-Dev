@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Souzas Dev — ES, Build Learn Evolve">
+<defs>
+ <radialGradient id="bg" cx="51%" cy="43%" r="85%"><stop stop-color="#131820"/><stop offset="0.58" stop-color="#090D12"/><stop offset="1" stop-color="#05070A"/></radialGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="0.78" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".38" stop-color="#E7E8EC"/><stop offset=".67" stop-color="#A1A8B4"/><stop offset="1" stop-color="#F0F2F5"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#151A21"/><stop offset=".48" stop-color="#89919F"/><stop offset="1" stop-color="#1B222B"/></linearGradient>
+ <linearGradient id="wave" x1="0" y1="0" x2=".95" y2="1"><stop stop-color="#F8FAFC" stop-opacity=".55"/><stop offset=".42" stop-color="#647080" stop-opacity=".35"/><stop offset="1" stop-color="#111820" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="260" fill="url(#bg)"/>
+<path d="M-100,38 Q35,225 200,260 L-25,260 Z" fill="url(#wave)" opacity=".38"/>
+<path d="M-45,76 Q35,211 160,255" stroke="#B6BEC9" stroke-opacity=".48" stroke-width="1.4" fill="none"/>
+<path d="M940,-28 C1012,30 1098,70 1240,81 L1240,-40 Z" fill="url(#wave)" opacity=".38"/>
+<path d="M925,-10 Q1075,86 1230,92" stroke="#CFD4DC" stroke-opacity=".40" stroke-width="1.1" fill="none"/>
+<path d="M1090,0 Q1130,25 1220,43" stroke="#9AA3B0" stroke-opacity=".28" fill="none"/>
+<g transform="translate(180 58) scale(1.81)" fill="url(#silver)">
+ <path d="M3,31 L4,76 L89,75 L104,59 L20,58 L21,46 L73,46 L87,31 Z"/>
+ <path d="M104,10 L99,19 L99,31 L104,40 L109,44 L118,47 L172,47 L175,51 L175,55 L170,59 L117,59 L101,76 L173,76 L182,73 L189,66 L193,55 L192,46 L189,40 L183,34 L171,30 L120,30 L116,26 L116,23 L121,18 L176,18 L191,2 L118,2 Z"/>
+ <path d="M4,18 L87,18 L103,2 L19,2 Z"/>
+</g>
+<path d="M565,62 V194" stroke="url(#line)" stroke-width="2"/>
+<g font-family="Montserrat, Segoe UI, Arial, sans-serif" fill="#F4F5F7" text-anchor="start">
+ <text x="605" y="127" font-size="46" font-weight="600" letter-spacing="9">SOUZAS</text>
+ <text x="927" y="127" font-size="46" font-weight="300" letter-spacing="8">DEV</text>
+ <text x="610" y="170" font-size="16" font-weight="400" letter-spacing="10" fill="#BFC4CF">BUILD · LEARN · EVOLVE</text>
+</g>
+</svg>
