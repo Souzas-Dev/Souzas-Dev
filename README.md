@@ -2,9 +2,9 @@
 
 <img src="./assets/banner-souzas-dev-final.jpeg" alt="Souzas Dev — monograma ES | Build · Learn · Evolve" width="100%">
 
-**Eduardo Souza · Desenvolvedor de software**
+<h3>Eduardo Souza · Desenvolvedor de software</h3>
 
-Minha marca pessoal. Meus projetos. Minha evolução.
+<h4>Minha marca pessoal. Meus projetos. Minha evolução.</h4>
 
 </div>
 
