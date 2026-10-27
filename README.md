@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/souzas-dev-banner-v2.svg" alt="Souzas Dev — monograma ES | Build · Learn · Evolve" width="100%">
+<img src="./assets/banner-souzas-dev-final.jpeg" alt="Souzas Dev — monograma ES | Build · Learn · Evolve" width="100%">
 
 **Eduardo Souza · Desenvolvedor de software**
 
