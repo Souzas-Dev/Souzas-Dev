@@ -1,66 +1,67 @@
 <div align="center">
 
-<img src="./assets/banner-souzas-dev-final.jpeg" alt="Souzas Dev — monograma ES | Build · Learn · Evolve" width="100%">
+<img src="./assets/banner-souzas-dev-final.jpeg" alt="Souzas Dev — Build · Learn · Evolve" width="100%">
 
-<h1>Eduardo Souza · Desenvolvedor de software</h1>
+# Eduardo Souza
 
-<h2>Minha marca pessoal. Meus projetos. Minha evolução.</h2>
+**Desenvolvimento web · Aprendizado contínuo · Souzas Dev**
+
+Construindo projetos, estudando fundamentos e documentando minha evolução em tecnologia.
 
 </div>
 
 ---
 
-## 👋 Olá, eu sou o Eduardo!
+## 👋 Sobre mim
 
-Sou desenvolvedor de software e uso a **Souzas Dev** como minha marca pessoal: um espaço para compartilhar projetos, experiências e o que aprendo pelo caminho.
+Sou Eduardo Souza, desenvolvedor de software em evolução e criador da **Souzas Dev**, minha marca pessoal para reunir projetos, experimentos e aprendizados.
 
-Gosto de aprender construindo, entender o **porquê** de cada decisão técnica e documentar o processo — não apenas mostrar o resultado final.
+Meu objetivo é desenvolver aplicações web com atenção à clareza do código, à experiência de quem usa e às decisões técnicas por trás de cada solução.
 
-## 🎯 Meu foco atual
+Uso este GitHub como um registro público do meu progresso: o que construí, o que estou estudando e o que ainda preciso melhorar.
 
-Estou estudando **AWS e computação em nuvem** e quero transformar esse conhecimento em projetos práticos, com atenção à arquitetura, segurança, automação e custos.
+## 🧭 Áreas de interesse
 
-`AWS` · `Cloud Computing` · `Segurança` · `Redes` · `Serverless` · `Automação`
+- **Desenvolvimento web:** interfaces, aplicações e integração entre frontend e backend.
+- **Fundamentos de engenharia:** organização de código, versionamento, documentação e testes.
+- **Computação em nuvem:** estudo de AWS, arquitetura, segurança e custos.
+- **Aprendizado na prática:** projetos pequenos, incrementais e reproduzíveis.
 
-Estou explorando fundamentos de infraestrutura e os serviços que fazem parte dessas soluções, evoluindo dos conceitos para implementações reproduzíveis.
+## 🛠️ Tecnologias em minha trajetória
 
-## 🚀 Projetos
+**Web:** HTML · CSS · JavaScript · TypeScript
 
-> **Portfólio em construção.** Recomecei este GitHub do zero para publicar projetos que demonstrem meu aprendizado na prática. Os itens abaixo são **ideias de estudo**, ainda não entregas concluídas.
+**Ecossistema em desenvolvimento:** React · Next.js · Node.js · PostgreSQL
 
-| Projeto planejado | O que pretendo demonstrar |
+**Ferramentas e estudos:** Git · GitHub · AWS (em estudo)
+
+> Esta seção indica tecnologias com as quais tenho contato ou que fazem parte do meu percurso de aprendizagem. Os projetos publicados servirão para demonstrar, com código, o nível de aplicação de cada uma.
+
+## 📂 Projetos
+
+**Portfólio em reconstrução.** Estou recomeçando a organização dos meus repositórios para publicar trabalhos com objetivos claros, código acessível e documentação útil.
+
+À medida que concluir projetos, vou destacar aqui os repositórios, as demonstrações e as principais decisões técnicas.
+
+### Próximos experimentos (planejados, não concluídos)
+
+| Estudo | O que pretendo praticar |
 | :--- | :--- |
-| **Hospedagem estática na AWS** | S3, CloudFront, permissões e distribuição de conteúdo |
-| **API serverless** | API Gateway, Lambda, integração de dados e controle de acesso |
-| **Infraestrutura como código** | Provisionamento reproduzível, automação e monitoramento |
+| Aplicação web | Interface, responsividade, acessibilidade e organização do código |
+| Aplicação com dados | Integração entre frontend, backend e persistência |
+| Deploy e nuvem | Publicação, configuração, segurança básica e observação de custos |
 
-À medida que cada projeto estiver pronto, vou incluir aqui o repositório e uma breve explicação das decisões que tomei.
+## 📚 Diário de evolução
 
-## 🛠️ Tecnologias
+Em cada projeto, quero registrar:
 
-Minha base de desenvolvimento inclui:
+1. **Problema e objetivo:** o que a solução busca resolver.
+2. **Implementação:** como executar, testar e reproduzir o projeto.
+3. **Decisões técnicas:** alternativas consideradas e motivos das escolhas.
+4. **Dificuldades:** erros encontrados e como foram resolvidos.
+5. **Próximos passos:** limitações e melhorias possíveis.
 
-**Linguagens e web:** `TypeScript` · `JavaScript` · `HTML` · `CSS`
-
-**Frontend e backend:** `React` · `Next.js` · `Node.js`
-
-**Dados e ferramentas:** `PostgreSQL` · `Git` · `GitHub`
-
-**Em estudo:** `Amazon Web Services (AWS)` · arquitetura e infraestrutura em nuvem
-
-Prefiro que as tecnologias apareçam principalmente nos projetos em que forem utilizadas, com contexto e código para demonstrar como foram aplicadas.
-
-## 📚 Aprendizados
-
-Em cada projeto, pretendo registrar:
-
-- **Objetivo:** qual problema ou conceito estou explorando;
-- **Arquitetura:** os serviços escolhidos e o motivo das decisões;
-- **Implementação:** passos para reproduzir a solução;
-- **Segurança e custos:** cuidados tomados durante os testes;
-- **Lições aprendidas:** dificuldades, melhorias e próximos passos.
-
-A ideia é que este perfil mostre minha evolução de verdade — incluindo experimentos, ajustes e descobertas.
+Meu compromisso é mostrar **trabalho real e progresso verificável**, sem apresentar planos como entregas prontas.
 
 ---
 
@@ -68,11 +69,9 @@ A ideia é que este perfil mostre minha evolução de verdade — incluindo expe
 
 ### BUILD · LEARN · EVOLVE
 
-**Build** — Construir para colocar o conhecimento em prática.
-
-**Learn** — Aprender por meio de estudo e experimentação.
-
-**Evolve** — Evoluir a cada novo desafio.
+**Build** — Construir com propósito.  
+**Learn** — Estudar e experimentar.  
+**Evolve** — Melhorar a cada projeto.
 
 <sub>Souzas Dev · Marca pessoal de Eduardo Souza</sub>
 
