@@ -27,15 +27,19 @@ Uso este GitHub como um registro público do meu progresso: o que construí, o q
 - **Computação em nuvem:** estudo de AWS, arquitetura, segurança e custos.
 - **Aprendizado na prática:** projetos pequenos, incrementais e reproduzíveis.
 
-## 🛠️ Tecnologias em minha trajetória
+## 🛠️ Tecnologias que já utilizei
 
-**Web:** HTML · CSS · JavaScript · TypeScript
+Ao longo dos meus projetos, tive contato prático com diferentes tecnologias e ferramentas. Estou continuamente aprofundando meus conhecimentos e desenvolvendo maior autonomia técnica.
 
-**Ecossistema em desenvolvimento:** React · Next.js · Node.js · PostgreSQL
+**Frontend:** HTML · CSS · JavaScript · TypeScript · React · Next.js
 
-**Ferramentas e estudos:** Git · GitHub · AWS (em estudo)
+**Backend e banco de dados:** Node.js · Prisma · SQL
 
-> Esta seção indica tecnologias com as quais tenho contato ou que fazem parte do meu percurso de aprendizagem. Os projetos publicados servirão para demonstrar, com código, o nível de aplicação de cada uma.
+**Versionamento e ferramentas:** Git · GitHub
+
+**Atualmente em estudo:** Amazon Web Services (AWS) · Fundamentos de computação em nuvem
+
+> As tecnologias apresentadas representam experiências práticas em diferentes níveis de familiaridade, não necessariamente domínio avançado.
 
 ## 📂 Projetos
 
