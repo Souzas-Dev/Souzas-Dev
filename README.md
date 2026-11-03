@@ -4,9 +4,13 @@
 
 # Eduardo Souza
 
-**Desenvolvimento web · Aprendizado contínuo · Souzas Dev**
+**Desenvolvimento Web · Cloud Computing · Linux · Automação**
 
-Construindo projetos, estudando fundamentos e documentando minha evolução em tecnologia.
+Criador da **Souzas Dev**, minha marca pessoal de tecnologia.
+
+Construindo projetos, explorando novas tecnologias e documentando minha evolução profissional.
+
+**BUILD · LEARN · EVOLVE**
 
 </div>
 
@@ -14,58 +18,72 @@ Construindo projetos, estudando fundamentos e documentando minha evolução em t
 
 ## 👋 Sobre mim
 
-Sou Eduardo Souza, desenvolvedor de software em evolução e criador da **Souzas Dev**, minha marca pessoal para reunir projetos, experimentos e aprendizados.
+Sou Eduardo Souza, entusiasta de tecnologia e desenvolvedor em constante evolução.
 
-Meu objetivo é desenvolver aplicações web com atenção à clareza do código, à experiência de quem usa e às decisões técnicas por trás de cada solução.
+A **Souzas Dev** é minha marca pessoal, criada para reunir meus projetos, estudos, experiências práticas e conhecimentos em Tecnologia da Informação.
 
-Uso este GitHub como um registro público do meu progresso: o que construí, o que estou estudando e o que ainda preciso melhorar.
+Atualmente, estou aprofundando meus estudos em **Cloud Computing com AWS**, infraestrutura, Linux, redes e automação, sem deixar de evoluir meus conhecimentos em desenvolvimento web.
 
-## 🧭 Áreas de interesse
+Utilizo o GitHub como um portfólio técnico e um registro público da minha jornada de aprendizado.
 
-- **Desenvolvimento web:** interfaces, aplicações e integração entre frontend e backend.
-- **Fundamentos de engenharia:** organização de código, versionamento, documentação e testes.
-- **Computação em nuvem:** estudo de AWS, arquitetura, segurança e custos.
-- **Aprendizado na prática:** projetos pequenos, incrementais e reproduzíveis.
+## 🎯 Áreas de interesse
 
-## 🛠️ Tecnologias que já utilizei
+- **Cloud Computing:** AWS, infraestrutura, redes, segurança e serviços em nuvem.
+- **Linux e automação:** administração de ambientes, scripts Bash e diagnóstico.
+- **Desenvolvimento web:** frontend, backend e integração de aplicações.
+- **Engenharia de software:** Git, documentação, testes e boas práticas.
 
-Ao longo dos meus projetos, tive contato prático com diferentes tecnologias e ferramentas. Estou continuamente aprofundando meus conhecimentos e desenvolvendo maior autonomia técnica.
+## 🚀 Projetos em destaque
 
-**Frontend:** HTML · CSS · JavaScript · TypeScript · React · Next.js
+### ☁️ AWS Labs — Laboratórios Práticos
 
-**Backend e banco de dados:** Node.js · Prisma · SQL
+Laboratórios de computação em nuvem com documentação técnica, scripts e evidências.
 
-**Versionamento e ferramentas:** Git · GitHub
+**Tecnologias:** AWS · Amazon EC2 · Amazon Linux · Bash · VPC · EBS
 
-**Atualmente em estudo:** Amazon Web Services (AWS) · Fundamentos de computação em nuvem
+**Status:** Em desenvolvimento.
 
-> As tecnologias apresentadas representam experiências práticas em diferentes níveis de familiaridade, não necessariamente domínio avançado.
+[Explorar AWS Labs](https://github.com/Souzas-Dev/aws-labs)
 
-## 📂 Projetos
+### 🐧 Ubuntu Workstation Setup
 
-**Portfólio em reconstrução.** Estou recomeçando a organização dos meus repositórios para publicar trabalhos com objetivos claros, código acessível e documentação útil.
+Projeto de automação para preparação de ambientes Ubuntu, com scripts, simulação de execução, logs e testes automatizados.
 
-À medida que concluir projetos, vou destacar aqui os repositórios, as demonstrações e as principais decisões técnicas.
+**Tecnologias:** Linux · Ubuntu · Bash · Git · Python
 
-### Próximos experimentos (planejados, não concluídos)
+**Status:** Em evolução.
 
-| Estudo | O que pretendo praticar |
-| :--- | :--- |
-| Aplicação web | Interface, responsividade, acessibilidade e organização do código |
-| Aplicação com dados | Integração entre frontend, backend e persistência |
-| Deploy e nuvem | Publicação, configuração, segurança básica e observação de custos |
+[Explorar Ubuntu Workstation Setup](https://github.com/Souzas-Dev/ubuntu-workstation-setup)
 
-## 📚 Diário de evolução
+## 🛠️ Tecnologias e ferramentas
 
-Em cada projeto, quero registrar:
+**Desenvolvimento web**
 
-1. **Problema e objetivo:** o que a solução busca resolver.
-2. **Implementação:** como executar, testar e reproduzir o projeto.
-3. **Decisões técnicas:** alternativas consideradas e motivos das escolhas.
-4. **Dificuldades:** erros encontrados e como foram resolvidos.
-5. **Próximos passos:** limitações e melhorias possíveis.
+HTML · CSS · JavaScript · TypeScript · React · Next.js · Node.js
 
-Meu compromisso é mostrar **trabalho real e progresso verificável**, sem apresentar planos como entregas prontas.
+**Banco de dados e ferramentas**
+
+SQL · Prisma · Git · GitHub
+
+**Infraestrutura e automação**
+
+Linux · Ubuntu · Bash · GitHub Actions
+
+**Em aprofundamento**
+
+AWS · Cloud Computing · Redes · Segurança em nuvem
+
+> As tecnologias representam experiências e estudos em diferentes níveis de familiaridade, não necessariamente domínio avançado.
+
+## 📚 Aprendizado contínuo
+
+Minha abordagem de aprendizado é baseada em três pilares:
+
+1. **Estudar:** compreender conceitos e fundamentos.
+2. **Praticar:** aplicar conhecimentos em projetos e laboratórios.
+3. **Documentar:** registrar decisões, resultados, dificuldades e melhorias.
+
+Acredito que a evolução técnica acontece quando transformamos conhecimento em experiência prática.
 
 ---
 
@@ -73,10 +91,10 @@ Meu compromisso é mostrar **trabalho real e progresso verificável**, sem apres
 
 ### BUILD · LEARN · EVOLVE
 
-**Build** — Construir com propósito.  
-**Learn** — Estudar e experimentar.  
-**Evolve** — Melhorar a cada projeto.
+**Souzas Dev**
 
-<sub>Souzas Dev · Marca pessoal de Eduardo Souza</sub>
+Marca pessoal de Eduardo Souza.
+
+*Construindo hoje. Aprendendo sempre. Evoluindo a cada projeto.*
 
 </div>
