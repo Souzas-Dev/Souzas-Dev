@@ -57,23 +57,25 @@ Projeto de automação para preparação de ambientes Ubuntu, com scripts, simul
 
 ## 🛠️ Tecnologias e ferramentas
 
-**Desenvolvimento web**
+Meu repertório reúne desenvolvimento de aplicações web, bancos de dados, automação e infraestrutura. As ferramentas abaixo representam experiências e estudos em diferentes níveis de familiaridade.
 
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Node.js
+| Área | Tecnologias e ferramentas |
+| --- | --- |
+| Linguagens | Python · JavaScript · TypeScript · SQL |
+| Frontend | HTML5 · CSS3 · React · Next.js · Tailwind CSS |
+| Backend | Node.js · APIs e rotas server-side do Next.js |
+| Banco de dados | PostgreSQL · Prisma · Supabase |
+| Interfaces e automação | PySide6 (Qt) · PowerShell · Bash |
+| Sistemas operacionais | Windows · Linux · Ubuntu |
+| Qualidade e segurança | Vitest · Zod · ESLint · autenticação e controle de acesso |
+| Desenvolvimento e entrega | Git · GitHub · GitHub Actions · Vercel · GitHub Pages |
+| Computação em nuvem | AWS · Amazon EC2 · VPC · EBS |
 
-**Banco de dados e ferramentas**
+**Em aprofundamento:** AWS, infraestrutura em nuvem, redes, segurança e administração Linux.
 
-SQL · Prisma · Git · GitHub
+O **Windows** faz parte da minha trajetória de longa data com computadores. Hoje também exploro Linux, PowerShell, Bash e Python em projetos práticos.
 
-**Infraestrutura e automação**
-
-Linux · Ubuntu · Bash · GitHub Actions
-
-**Em aprofundamento**
-
-AWS · Cloud Computing · Redes · Segurança em nuvem
-
-> As tecnologias representam experiências e estudos em diferentes níveis de familiaridade, não necessariamente domínio avançado.
+> A presença de uma tecnologia nesta lista não significa domínio avançado. Procuro demonstrar o que estudei e pratiquei, com transparência sobre o estágio de cada projeto.
 
 ## 📚 Aprendizado contínuo
 
