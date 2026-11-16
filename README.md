@@ -64,25 +64,41 @@ Projeto de automação para preparação de ambientes Ubuntu, com scripts, simul
 
 ## 🛠️ Tecnologias e ferramentas
 
-Meu repertório reúne desenvolvimento de aplicações web, bancos de dados, automação e infraestrutura. As ferramentas abaixo representam experiências e estudos em diferentes níveis de familiaridade.
+Organizo minhas tecnologias conforme as experiências registradas, os conhecimentos explorados e meus objetivos de aprendizado. Esta classificação não representa domínio avançado de todas as ferramentas.
+
+### Experiência prática documentada
+
+Tecnologias utilizadas ou demonstradas nos projetos públicos deste GitHub.
+
+| Área | Tecnologias e práticas |
+| --- | --- |
+| Cloud Computing | AWS, Amazon EC2, VPC, Security Groups, EBS e User Data |
+| Linux e automação | Ubuntu, Amazon Linux, Bash, APT, scripts e logs |
+| Python e interfaces | Python e PySide6 (Qt), em protótipo desktop |
+| Versionamento | Git, GitHub, branches e Pull Requests |
+| Qualidade e documentação | Testes Bash, GitHub Actions, Markdown e documentação técnica |
+
+### Outras tecnologias do meu repertório
+
+Tecnologias com as quais tive contato em estudos ou experiências de diferentes níveis, não necessariamente demonstradas nos repositórios públicos em destaque.
 
 | Área | Tecnologias e ferramentas |
 | --- | --- |
-| Linguagens | Python · JavaScript · TypeScript · SQL |
-| Frontend | HTML5 · CSS3 · React · Next.js · Tailwind CSS |
-| Backend | Node.js · APIs e rotas server-side do Next.js |
-| Banco de dados | PostgreSQL · Prisma · Supabase |
-| Interfaces e automação | PySide6 (Qt) · PowerShell · Bash |
-| Sistemas operacionais | Windows · Linux · Ubuntu |
-| Qualidade e segurança | Vitest · Zod · ESLint · autenticação e controle de acesso |
-| Desenvolvimento e entrega | Git · GitHub · GitHub Actions · Vercel · GitHub Pages |
-| Computação em nuvem | AWS · Amazon EC2 · VPC · EBS |
+| Desenvolvimento web | HTML5, CSS3, JavaScript, TypeScript, React, Next.js e Tailwind CSS |
+| Backend | Node.js e APIs |
+| Bancos de dados | SQL, PostgreSQL, Prisma e Supabase |
+| Testes e qualidade | Vitest, Zod e ESLint |
+| Sistemas e automação | Windows e PowerShell |
+| Publicação | Vercel e GitHub Pages |
 
-**Em aprofundamento:** AWS, infraestrutura em nuvem, redes, segurança e administração Linux.
+### Conhecimentos em aprofundamento
 
-O **Windows** faz parte da minha trajetória de longa data com computadores. Hoje também exploro Linux, PowerShell, Bash e Python em projetos práticos.
+- **Cloud Computing:** AWS, infraestrutura, redes, segurança e monitoramento.
+- **Suporte e infraestrutura:** sistemas operacionais, redes e diagnóstico de problemas.
+- **Linux:** administração de ambientes e automação com Bash.
+- **Programação:** Python, desenvolvimento web e boas práticas de software.
 
-> A presença de uma tecnologia nesta lista não significa domínio avançado. Procuro demonstrar o que estudei e pratiquei, com transparência sobre o estágio de cada projeto.
+Meu foco é consolidar os fundamentos por meio de estudos, laboratórios e projetos práticos, documentando resultados e limitações de cada atividade.
 
 ## 📚 Aprendizado contínuo
 
