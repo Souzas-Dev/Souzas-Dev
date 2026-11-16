@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="./assets/banner-souzas-dev-final.jpeg" alt="Souzas Dev — Build · Learn · Evolve" width="100%">
 
@@ -41,9 +41,9 @@ Laboratórios de computação em nuvem com documentação técnica, scripts e ev
 
 **Tecnologias:** AWS · Amazon EC2 · Amazon Linux · Bash · VPC · EBS
 
-**Status:** Em desenvolvimento.
+**Status:** Em andamento — laboratorios do curso AWS da Escola da Nuvem (EdN).
 
-[Explorar AWS Labs](https://github.com/Souzas-Dev/aws-labs)
+[Explorar AWS Labs](https://github.com/Souzas-Dev/AWS-Lab)
 
 ### 🐧 Ubuntu Workstation Setup
 
@@ -51,7 +51,7 @@ Projeto de automação para preparação de ambientes Ubuntu, com scripts, simul
 
 **Tecnologias:** Linux · Ubuntu · Bash · Git · Python
 
-**Status:** Em evolução.
+**Status:** Pausado temporariamente — aguardando ambiente Linux para novos testes.
 
 [Explorar Ubuntu Workstation Setup](https://github.com/Souzas-Dev/ubuntu-workstation-setup)
 
@@ -100,3 +100,4 @@ Marca pessoal de Eduardo Souza.
 *Construindo hoje. Aprendendo sempre. Evoluindo a cada projeto.*
 
 </div>
+
