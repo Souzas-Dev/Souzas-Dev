@@ -4,7 +4,7 @@
 
 # Eduardo Souza
 
-**Desenvolvimento Web · Cloud Computing · Linux · Automação**
+**Suporte Técnico · Infraestrutura · AWS · Linux · Automação**
 
 Criador da **Souzas Dev**, minha marca pessoal de tecnologia.
 
@@ -18,16 +18,23 @@ Construindo projetos, explorando novas tecnologias e documentando minha evoluç�
 
 ## 👋 Sobre mim
 
-Sou Eduardo Souza, entusiasta de tecnologia e desenvolvedor em constante evolução.
+Sou Eduardo Souza e estou construindo minha trajetória na área de Tecnologia da Informação, com foco em infraestrutura, sistemas e computação em nuvem.
 
 A **Souzas Dev** é minha marca pessoal, criada para reunir meus projetos, estudos, experiências práticas e conhecimentos em Tecnologia da Informação.
 
-Atualmente, estou aprofundando meus estudos em **Cloud Computing com AWS**, infraestrutura, Linux, redes e automação, sem deixar de evoluir meus conhecimentos em desenvolvimento web.
+Atualmente, estudo **Cloud Computing com AWS na Escola da Nuvem (EdN)**, além de Linux, redes e automação. Também desenvolvo conhecimentos em programação e desenvolvimento web como complemento à minha formação.
 
 Utilizo o GitHub como um portfólio técnico e um registro público da minha jornada de aprendizado.
 
+## 🧭 Objetivo profissional
+
+**Porta de entrada:** atuar em Suporte Técnico N1, Help Desk, Service Desk ou Infraestrutura, desenvolvendo experiência prática em diagnóstico, sistemas operacionais e atendimento técnico.
+
+**Objetivo de longo prazo:** evoluir para Engenharia de Nuvem (Cloud Engineer), aprofundando conhecimentos em AWS, redes, Linux, segurança e automação.
+
 ## 🎯 Áreas de interesse
 
+- **Suporte Técnico e Infraestrutura:** diagnóstico, sistemas operacionais, redes e documentação técnica.
 - **Cloud Computing:** AWS, infraestrutura, redes, segurança e serviços em nuvem.
 - **Linux e automação:** administração de ambientes, scripts Bash e diagnóstico.
 - **Desenvolvimento web:** frontend, backend e integração de aplicações.
