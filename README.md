@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="./assets/banner-souzas-dev-final.jpeg" alt="Souzas Dev — Build · Learn · Evolve" width="100%">
 
@@ -41,7 +41,7 @@ Laboratórios de computação em nuvem com documentação técnica, scripts e ev
 
 **Tecnologias:** AWS · Amazon EC2 · Amazon Linux · Bash · VPC · EBS
 
-**Status:** Em andamento — laboratorios do curso AWS da Escola da Nuvem (EdN).
+**Status:** Em andamento — laboratórios do curso AWS da Escola da Nuvem (EdN).
 
 [Explorar AWS Labs](https://github.com/Souzas-Dev/AWS-Lab)
 
@@ -100,4 +100,3 @@ Marca pessoal de Eduardo Souza.
 *Construindo hoje. Aprendendo sempre. Evoluindo a cada projeto.*
 
 </div>
-
