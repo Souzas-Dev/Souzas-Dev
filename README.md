@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/souzas-dev-cloud-dev.svg" alt="Souzas Dev | José Eduardo de Souza | Cloud Computing, Desenvolvimento e Automação" width="100%" />
+<img src="./assets/banner-souzas-dev-cloud.png" alt="Souzas Dev | José Eduardo de Souza | Cloud Computing, Desenvolvimento e Automação" width="100%" />
 
 <br />
 
