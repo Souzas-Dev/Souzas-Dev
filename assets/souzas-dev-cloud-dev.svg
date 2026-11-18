@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-label="Souzas Dev - Cloud Computing, Desenvolvimento e Automação - Build Learn Evolve">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09051b"/><stop offset=".53" stop-color="#0d0827"/><stop offset="1" stop-color="#030611"/></linearGradient>
+  <radialGradient id="haze" cx="0" cy="1" r="1"><stop stop-color="#7823d4" stop-opacity=".64"/><stop offset="1" stop-color="#7823d4" stop-opacity="0"/></radialGradient>
+  <radialGradient id="topGlow" cx="1" cy="0" r="1"><stop stop-color="#5e20c6" stop-opacity=".43"/><stop offset="1" stop-color="#5e20c6" stop-opacity="0"/></radialGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#bd67ff"/><stop offset=".5" stop-color="#8754ff"/><stop offset="1" stop-color="#6f46ff"/></linearGradient>
+  <linearGradient id="trail" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#35236f"/><stop offset=".4" stop-color="#974aff"/><stop offset="1" stop-color="#d9a2ff"/></linearGradient>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="dots" width="25" height="25" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#9160ff" opacity=".35"/></pattern>
+</defs>
+<rect width="1600" height="480" fill="url(#bg)"/>
+<rect width="1600" height="480" fill="url(#haze)"/>
+<rect width="1600" height="480" fill="url(#topGlow)"/>
+<rect x="0" y="0" width="460" height="480" fill="url(#dots)" opacity=".44"/>
+<circle cx="-42" cy="508" r="370" stroke="#6a3ac0" stroke-width="1.5" fill="none" opacity=".46"/>
+<circle cx="-42" cy="508" r="440" stroke="#8a46fb" stroke-width="1.4" fill="none" opacity=".31"/>
+<circle cx="-42" cy="508" r="515" stroke="#ab6eff" stroke-width="1.1" fill="none" opacity=".17"/>
+<path d="M0 408 C270 325 340 474 598 414 S940 430 1105 386 1440 444 1600 388" stroke="#782ce0" stroke-width="1.3" opacity=".42" fill="none"/>
+<path d="M0 448 C280 365 369 490 632 445 S940 453 1105 426 1440 469 1600 429" stroke="#a65bff" stroke-width="1.2" opacity=".36" fill="none"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+  <rect x="92" y="69" width="55" height="38" rx="10" fill="#a95cff" opacity=".12" stroke="#a95cff" stroke-opacity=".62"/>
+  <text x="103" y="96" font-family="monospace" font-size="22" fill="#c67aff" font-weight="700">&lt;/&gt;</text>
+  <text x="163" y="96" font-size="28" fill="#f6f1ff" font-weight="700" letter-spacing="1.5">SOUZAS <tspan fill="#b066ff">DEV</tspan></text>
+  <text x="89" y="205" font-size="67" fill="#ffffff" font-weight="750" letter-spacing="-1">José Eduardo <tspan fill="#bf7cff">de Souza</tspan></text>
+  <text x="93" y="259" font-size="29" fill="#efdeff" font-weight="500">Cloud Computing <tspan fill="#9457de">|</tspan> Desenvolvimento <tspan fill="#9457de">|</tspan> Automação</text>
+  <text x="94" y="310" font-size="23" fill="#b9b2d0">AWS  ·  Linux  ·  Bash  ·  Python  ·  PowerShell  ·  Web Dev  ·  Git/GitHub</text>
+  <rect x="93" y="343" width="93" height="5" rx="2.5" fill="url(#accent)" filter="url(#glow)"/>
+  <text x="205" y="356" font-size="21" fill="#e2c8ff">Em evolução para Cloud Engineer</text>
+  <text x="94" y="424" font-size="25" fill="#d1a6ff" font-weight="650" letter-spacing="1.5">BUILD  ·  LEARN  ·  EVOLVE</text>
+</g>
+<g transform="translate(1275 80)">
+  <circle cx="100" cy="170" r="174" fill="none" stroke="#6842a5" stroke-width="1" opacity=".3"/>
+  <circle cx="100" cy="170" r="138" fill="none" stroke="#8451c9" stroke-width="1" opacity=".28"/>
+  <path d="M-30 310L77 203L126 246L259 80L355 310" stroke="#8b45ff" stroke-opacity=".45" stroke-width="2" fill="none"/>
+  <path d="M-30 310L77 203L126 246L259 80L355 310" stroke="url(#trail)" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" opacity=".15" fill="none" filter="url(#glow)"/>
+  <path d="M-30 310L77 203L126 246L259 80L355 310" stroke="url(#trail)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <path d="M51 253C101 280 157 195 205 172S268 85 278 36" fill="none" stroke="#be7aff" stroke-width="3" stroke-dasharray="8 13" opacity=".85"/>
+  <circle cx="70" cy="243" r="8" fill="#b978ff" filter="url(#glow)"/>
+  <circle cx="190" cy="181" r="8" fill="#b978ff" filter="url(#glow)"/>
+  <circle cx="277" cy="39" r="8" fill="#e4aaff" filter="url(#glow)"/>
+  <g fill="none" stroke="#ce96ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+   <path d="M236 11c-3-20 14-37 34-37 14 0 26 7 32 19 5-3 12-4 18-4 20 0 36 16 36 35s-16 34-36 34h-67c-18 0-30-13-30-28 0-9 5-15 13-19z" transform="translate(-14 -7) scale(.83)"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#e8d8ff" font-size="16" font-weight="650">
+   <text x="2" y="272">APRENDER</text><text x="147" y="206">CONSTRUIR</text><text x="288" y="93">EVOLUIR</text>
+  </g>
+</g>
+</svg>
